@@ -1,3 +1,3 @@
 # webway_project_sp
-* Enter project details here. *
+* Enter project details here.
  
